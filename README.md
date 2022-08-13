@@ -3,6 +3,7 @@
 
 - My name is Karine Wagner and I'm starting in the development area.
 
+- I’m currently learning HTML, CSS, JavaScript...
 
 🥰🚀👩🏼‍💻
 
