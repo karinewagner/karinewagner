@@ -1,8 +1,9 @@
 ### Hi there 👋, que bom ver você por aqui! :)
 
-
+-
 Me chamo Karine Wagner e estou iniciando na área de desenvolvimento.
 -
+
 My name is Karine Wagner and I'm starting in the development area.
 
 🥰🚀👩🏼‍💻
