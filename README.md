@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋, que bom ver você por aqui! :)
 
-Olá, que bom ver você por aqui! :)
 
 Me chamo Karine Wagner e estou iniciando na área de desenvolvimento.
 -
