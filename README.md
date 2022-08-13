@@ -1,11 +1,15 @@
 ### Hi there 👋, que bom ver você por aqui! :)
 
 
--
+- My name is Karine Wagner and I'm starting in the development area.
 
-My name is Karine Wagner and I'm starting in the development area.
 
 🥰🚀👩🏼‍💻
+
+
+👩🏼‍💻 You can contact me via Linkedin: https://www.linkedin.com/in/karinedwagner/
+
+See you letter... 😄
 
 
 <!--
