@@ -10,7 +10,7 @@
 
 👩🏼‍💻 You can contact me via Linkedin: https://www.linkedin.com/in/karinedwagner/
 
-See you letter... 😄
+See you later... 😄
 
 
 <!--
