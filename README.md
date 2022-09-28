@@ -1,9 +1,11 @@
 ### Hi there 👋, que bom ver você por aqui! :)
 
 
-- My name is Karine Wagner and I'm starting in the development area.
+- My name is Karine Wagner and I'm working in the web development area.
 
-- I’m currently learning HTML, CSS, JavaScript...
+- I have knowledge and projects developed with HTML, CSS, JavaScript e SQL.
+
+- I'm currently studying JavaScript, Node.JS, SQL...
 
 🥰🚀👩🏼‍💻
 
