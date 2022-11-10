@@ -3,9 +3,7 @@
 
 - My name is Karine Wagner and I'm working in the web development area.
 
-- I have knowledge and projects developed with HTML, CSS, JavaScript e SQL.
-
-- I'm currently studying JavaScript, Node.JS, SQL...
+- I have knowledge and projects developed with JavaScript, React, NodeJs e SQL.
 
 🥰🚀👩🏼‍💻
 
