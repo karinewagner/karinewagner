@@ -1,4 +1,4 @@
-### Hi there 👋, que bom ver você por aqui! :)
+### Hi there 👋, good to see you here! :)
 
 
 - My name is Karine Wagner and I'm working in the web development area.
